@@ -51,6 +51,10 @@ Ouça a resposta gerada automaticamente
 
 💡 Possíveis Melhorias
 
+
+LINK PARA O GOOGLE COLAB:
+
+https://colab.research.google.com/drive/1rHGq5N-sbEGtZsNUiQFT8q60BhRbj99b#scrollTo=w3mRPF-Ka-et
 Interface web (ex: Streamlit)
 Uso de voz em tempo real (streaming)
 Personalização de voz
